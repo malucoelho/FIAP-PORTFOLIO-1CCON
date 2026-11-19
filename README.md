@@ -1,7 +1,7 @@
 # Neighborhood Action Dashboard
 
-**Equipe:** [NOME DA EQUIPE]
-**Integrantes (RM):** [Nome – RM], [Nome – RM]
+**Equipe:** Equipe Joma
+**Integrantes (RM):** maria luiza coelho inocencio - rm: 576414
 
 ## 1. Comunidade simulada, problema e público
 Três bairros fictícios (Centro, Jardim Norte e Vila Sul) com demandas de iluminação, acessibilidade, limpeza e conservação de espaços coletivos. Hoje os relatos são dispersos e os moradores não acompanham o andamento. O painel organiza as ocorrências e mostra indicadores simples. Beneficia moradores, associações de bairro e quem acompanha as demandas. Todos os dados são fictícios.
@@ -57,7 +57,6 @@ Mensagens em linguagem simples e menu numerado, com tabela em texto puro legíve
 - Validar antes de guardar evita erros; as condições com `and`, `or` e `not` definem cada mensagem do sistema.
 - Regras claras de status e um histórico simples facilitam o acompanhamento.
 - Indicadores simples mostram onde está o gargalo: examinar as demandas abertas.
-- [Escrevam aqui como dividiram as tarefas e o que foi mais difícil.]
 - Usamos IA como apoio, mas só entendemos o resultado ao testar cada opção e conferir as contas.
 
 **Limitações:** dados fictícios, sem persistência (as alterações somem ao fechar), apenas terminal e sem integração com órgãos públicos. Em uma versão futura, os registros poderiam ser gravados em arquivo.
