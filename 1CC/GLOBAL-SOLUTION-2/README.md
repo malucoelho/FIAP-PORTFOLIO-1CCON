@@ -49,7 +49,7 @@ Com os dados simulados (13 ocorrências válidas na carga inicial), 10 das 13 de
 Mensagens em linguagem simples e menu numerado, com tabela em texto puro legível por leitores de tela. Nenhum dado pessoal é coletado; os locais são genéricos e os dados, fictícios.
 
 ## 8. Vídeo
-[LINK DO VÍDEO NO YOUTUBE – NÃO LISTADO]
+https://youtu.be/8JxXk_odOqk?si=AzlED2W-liidOWW5
 
 ## 9. Conclusões, limitações e aprendizados
 **Aprendizados**
