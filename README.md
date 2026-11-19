@@ -4,7 +4,7 @@
 
 # FIAP — Faculdade de Informática e Administração Paulista
 
-## Graduação ON em Ciência da Computação
+## Graduação em Ciência da Computação
 ### Portfólio de Projetos e Trabalhos Acadêmicos de Maria Luiza Coelho Inocencio
 
 **RM:** 576414  
@@ -34,7 +34,7 @@ Organizar e versionar o fluxo de desenvolvimento acadêmico, garantindo:
 - Reprodutibilidade dos experimentos;
 - Portfólio profissional estruturado.
 
-## Estrutura do repositório
+## Estrutura do repositorio
 
 As pastas estão organizadas por ano do curso. Dentro de cada ano, os materiais são distribuídos entre fases, Enterprise Challenge e Global Solutions.
 
